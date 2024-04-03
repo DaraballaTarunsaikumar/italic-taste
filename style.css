@@ -1,0 +1,678 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+.main
+{
+    background: rgb(118, 143, 151);
+    /* border: 1px solid; */
+    width: 100%;
+    /* height: 2000px; */
+}
+
+.tarun
+{
+    margin-left: 50px;
+    /* border: 2px solid; */
+    margin-top: 20px;
+    width: 50%;
+    /* height: 100px; */
+    /* background: white; */
+    float: left;
+}
+.sec1
+{
+    width: 100%;
+    height: 400px;
+    /* height: 300px; */
+    /* margin-left: 50px; */
+    /* margin-top: 30px; */
+    /* border: 1px solid; */
+}
+.sec1 img
+{
+    position: absolute;
+    width: 50%;
+    height: 400px;
+    margin-top: -30px;
+    filter: blur(3px);
+}
+.tul
+{
+    position: relative;
+}
+
+
+.tul h2{
+    margin-left: 100px;
+    padding-top: 20px;
+    color:white;
+    font-size: 30px;
+}
+.tul nav{
+        padding-left: 150px;
+        color:whitesmoke;
+        font-size: 20px;
+    
+}
+.tul h4
+{
+    padding-left: 40px;
+    
+}
+
+.tul h1{
+    font-family: satisfy;
+    color:white;
+    padding-left: 200px;
+    padding-top: 10px;
+    font-size: 40px;
+}
+.tul h3{
+    padding-left: 200px;
+    font-size: prompt;
+    font-size: 30px;
+    color: white;
+}
+.sec2
+{
+    /* margin-left: 50px; */
+    background: white;
+    /* margin-bottom: 20px; */
+    margin-top: -40px;
+    width: 100%;
+    height: 900px;
+}
+.sai p
+{
+    padding-top: 100px;
+    font-size: 10px;
+}
+.sai p,h2{
+   
+    text-align: center;
+   
+}
+.sai button,a
+{
+    border-radius: 20px;
+    margin-left: 150px;
+    text-decoration: none;
+}
+hr
+{
+    width: 70%;
+}
+.sai h2
+{
+    font-family: whisper;
+    font-size: 50px;
+}
+.alek
+{
+    float: left;
+    margin-left: 100px;
+    margin-top: 20px;
+    /* background: white; */
+}
+.alek img{
+    width: 70%;
+    height: 100px;
+    /* margin-top: 10px; */
+}
+.aya{
+    margin-top: 20px;
+    float: left;
+}
+.aya img
+{
+    width: 100%;
+    height:100px ;
+}
+.kumar
+{
+    margin-left: 450px;
+    margin-top: 30px;
+}
+.kumar img{
+    width: 70%;
+    height:100px;
+}
+.amma
+{
+    width: 40%;
+    height: 1335px;
+    border: 2px solid;
+    margin-left: 675px;
+}
+.deepu
+{
+    width: 100%;
+    height: 280PX;
+    background: white;
+    margin-top: -30px;
+    /* border: 1px solid; */
+}
+.deepu h2{
+    font-family: whisper;
+    font-size: 30px;
+}
+.deepu p{
+    margin-left: 100px;
+}
+.ashok
+{
+    margin-left: 20px;
+    /* padding-top: 10px; */
+    float: left;
+}
+.ashok img{
+    width: 50%;
+    height: 80px;
+}
+.ashok p{
+    margin-left: 10px;
+}
+.bhanu
+{
+    /* margin-left:20px; */
+    /* padding-top: 50px; */
+    float: left;
+}
+.bhanu img{
+    width: 90%;
+    height: 80px;
+    /* float: left; */
+}
+.babji
+{
+    margin-left: 380px;
+    margin-right: 20px;
+    /* padding-top: 50px; */
+}
+.babji img
+{
+    width:90%;
+    height: 80px;
+}
+/* .ganesh
+{
+    width: 40%;
+    height: 300px; 
+} */
+.ganesh img
+{
+    width: 40%;
+    height: 250px;
+    position: absolute;
+    /* padding-top: -30px; */
+    margin-top: -35px;
+}
+ .sankar
+{
+    position: relative;
+    color: white;
+    /* padding-top: 25px; */
+    padding-left: 30px;
+}
+.sankar h2{
+    font-family: whisper;
+    font-size: 40px;
+
+}
+.sankar p{
+    margin-left: 150px;
+    font-size: 10px;
+}
+.sankar button,a{
+    text-decoration: none;
+    border-radius: 20px;
+    margin-top: 60px;
+    /* background: black;
+    color: white; */
+    width: 150px;
+} 
+.srinu
+{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    margin-top: -50px;
+}
+.venkat
+{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.venkat h2{
+    font-family: whisper;
+    font-size: 40px;
+    padding-top: 20px;
+}
+.venkat h4
+{
+    margin-left:50px;
+}
+.ravi
+{
+    margin-left: 20px;
+}
+.hari
+{
+    width: 40%;
+    height: 200px;
+    /* background: white; */
+    position: absolute;
+}
+.hari img
+{
+    width: 100%;
+    height: 300px;
+    position: relative;
+    /* margin-top: -400; */
+    position: absolute;
+}
+.china
+{
+    position: relative;
+    color: white;
+    margin-top: -20px;
+}
+.china h2{
+    font-family: whisper;
+    font-size: 40px;
+}
+.china h3{
+    margin-left: 200px;
+    margin-top: -30px;
+}
+.vinay
+{
+    float: left;
+    margin-left: 40px;
+    color: white;
+}
+.krishna
+{
+    margin-left: 300px;
+    color: white;
+    margin-top: 30px;
+}
+.lah
+{
+    height: 100px;
+    background: white;
+    margin-top: 300px;
+}
+.mar 
+{
+    width: 100%;
+    height: 150px;
+    background: black;
+    color: white;
+    margin-top: -20px;
+}
+.mar p{
+    margin-left: 230px;
+    margin-top: -20px;
+}
+.mar ul{
+    list-style: none;
+    color: white;
+    display: flex;
+    margin-left: 50px;
+
+}
+.mar li{
+    margin-left: 40px;
+}
+.satish
+{
+    margin-left: 200px;
+    display: flex;
+    margin-top: 40px;
+}
+.satish i{
+    margin-left: 20px;
+}
+.satish i:hover{
+    color: red;
+}
+@media screen and (min-width:720px)
+{
+    .main
+{
+    background: rgb(118, 143, 151);
+    /* border: 1px solid; */
+    width: 100%;
+    /* height: 2000px; */
+}
+
+.tarun
+{
+    margin-left: 50px;
+    /* border: 2px solid; */
+    margin-top: 20px;
+    width: 50%;
+    /* height: 100px; */
+    /* background: white; */
+    /* float: left; */
+}
+.sec1
+{
+    width: 100%;
+    height: 400px;
+    /* height: 300px; */
+    /* margin-left: 50px; */
+    /* margin-top: 30px; */
+    /* border: 1px solid; */
+}
+.sec1 img
+{
+    position: absolute;
+    width: 50%;
+    height: 400px;
+    margin-top: -30px;
+    filter: blur(3px);
+}
+.tul
+{
+    position: relative;
+}
+
+
+.tul h2{
+    margin-left: 100px;
+    padding-top: 20px;
+    color:white;
+    font-size: 30px;
+}
+.tul nav{
+        padding-left: 150px;
+        color:whitesmoke;
+        font-size: 20px;
+    
+}
+.tul h4
+{
+    padding-left: 40px;
+    
+}
+
+.tul h1{
+    font-family: satisfy;
+    color:white;
+    padding-left: 200px;
+    padding-top: 10px;
+    font-size: 40px;
+}
+.tul h3{
+    padding-left: 200px;
+    font-size: prompt;
+    font-size: 30px;
+    color: white;
+}
+.sec2
+{
+    /* margin-left: 50px; */
+    background: white;
+    /* margin-bottom: 20px; */
+    margin-top: -40px;
+    width: 100%;
+    height: 900px;
+}
+.sai p
+{
+    padding-top: 100px;
+    font-size: 10px;
+}
+.sai p,h2{
+   
+    text-align: center;
+   
+}
+.sai button,a
+{
+    border-radius: 20px;
+    margin-left: 150px;
+    text-decoration: none;
+}
+hr
+{
+    width: 70%;
+}
+.sai h2
+{
+    font-family: whisper;
+    font-size: 50px;
+}
+.alek
+{
+    float: left;
+    margin-left: 100px;
+    margin-top: 20px;
+    /* background: white; */
+}
+.alek img{
+    width: 70%;
+    height: 100px;
+    /* margin-top: 10px; */
+}
+.aya{
+    margin-top: 20px;
+    float: left;
+}
+.aya img
+{
+    width: 100%;
+    height:100px ;
+}
+.kumar
+{
+    margin-left: 450px;
+    margin-top: 30px;
+}
+.kumar img{
+    width: 70%;
+    height:100px;
+}
+.amma
+{
+    width: 40%;
+    height: 1335px;
+    border: 2px solid;
+    /* margin-left: 675px; */
+}
+.deepu
+{
+    width: 100%;
+    height: 280PX;
+    background: white;
+    margin-top: -30px;
+    /* border: 1px solid; */
+}
+.deepu h2{
+    font-family: whisper;
+    font-size: 30px;
+}
+.deepu p{
+    margin-left: 100px;
+}
+.ashok
+{
+    margin-left: 20px;
+    /* padding-top: 10px; */
+    float: left;
+}
+.ashok img{
+    width: 50%;
+    height: 80px;
+}
+.ashok p{
+    margin-left: 10px;
+}
+.bhanu
+{
+    /* margin-left:20px; */
+    /* padding-top: 50px; */
+    float: left;
+}
+.bhanu img{
+    width: 90%;
+    height: 80px;
+    /* float: left; */
+}
+.babji
+{
+    margin-left: 380px;
+    margin-right: 20px;
+    /* padding-top: 50px; */
+}
+.babji img
+{
+    width:90%;
+    height: 80px;
+}
+/* .ganesh
+{
+    width: 40%;
+    height: 300px; 
+} */
+.ganesh img
+{
+    width: 40%;
+    height: 250px;
+    position: absolute;
+    /* padding-top: -30px; */
+    margin-top: -35px;
+}
+ .sankar
+{
+    position: relative;
+    color: white;
+    /* padding-top: 25px; */
+    padding-left: 30px;
+}
+.sankar h2{
+    font-family: whisper;
+    font-size: 40px;
+
+}
+.sankar p{
+    margin-left: 150px;
+    font-size: 10px;
+}
+.sankar button,a{
+    text-decoration: none;
+    border-radius: 20px;
+    margin-top: 60px;
+    /* background: black;
+    color: white; */
+    width: 150px;
+} 
+.srinu
+{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    margin-top: -50px;
+}
+.venkat
+{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.venkat h2{
+    font-family: whisper;
+    font-size: 40px;
+    padding-top: 20px;
+}
+.venkat h4
+{
+    margin-left:50px;
+}
+.ravi
+{
+    margin-left: 20px;
+}
+.hari
+{
+    width: 40%;
+    height: 200px;
+    /* background: white; */
+    position: absolute;
+}
+.hari img
+{
+    width: 100%;
+    height: 300px;
+    position: relative;
+    /* margin-top: -400; */
+    position: absolute;
+}
+.china
+{
+    position: relative;
+    color: white;
+    margin-top: -20px;
+}
+.china h2{
+    font-family: whisper;
+    font-size: 40px;
+}
+.china h3{
+    margin-left: 200px;
+    margin-top: -30px;
+}
+.vinay
+{
+    float: left;
+    margin-left: 40px;
+    color: white;
+}
+.krishna
+{
+    margin-left: 300px;
+    color: white;
+    margin-top: 30px;
+}
+.lah
+{
+    height: 100px;
+    background: white;
+    margin-top: 300px;
+}
+.mar 
+{
+    width: 100%;
+    height: 150px;
+    background: black;
+    color: white;
+    margin-top: -20px;
+}
+.mar p{
+    margin-left: 230px;
+    margin-top: -20px;
+}
+.mar ul{
+    list-style: none;
+    color: white;
+    display: flex;
+    margin-left: 50px;
+
+}
+.mar li{
+    margin-left: 40px;
+}
+.satish
+{
+    margin-left: 200px;
+    display: flex;
+    margin-top: 40px;
+}
+.satish i{
+    margin-left: 20px;
+}
+.satish i:hover{
+    color: red;
+}
+}
